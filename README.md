@@ -115,13 +115,13 @@ Where dea.continent is not null;
 
 ## 🧠 **Compétences démontrées**
 
-✔ Analyse SQL avancée
-✔ Manipulation de données volumineuses
-✔ Création de modèles analytiques (mortalité, infection, vaccination)
-✔ Nettoyage / préparation de données
-✔ Utilisation de CTE, views, tables temporaires
-✔ Jointures complexes et window functions
-✔ Préparation de données pour dashboards (Power BI, Tableau, Excel…)
+- ✔ Analyse SQL avancée
+- ✔ Manipulation de données volumineuses
+- ✔ Création de modèles analytiques (mortalité, infection, vaccination)
+- ✔ Nettoyage / préparation de données
+- ✔ Utilisation de CTE, views, tables temporaires
+- ✔ Jointures complexes et window functions
+- ✔ Préparation de données pour dashboards (Power BI, Tableau, Excel…)
 
 
 ## 🔧 **Pistes d’amélioration**
